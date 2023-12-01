@@ -1,0 +1,7 @@
+Lamp;H01;30;Topolino00
+Mouse;T01;10
+Monitor;T02;100
+Keyboard;T03;50;Pippo34
+Table;H02;300
+Bed;H03;280
+Bin;H04;5

@@ -1,0 +1,4 @@
+Nov 28, 2023 5:32:09 PM server.MarketServer main
+FINE: Logger on
+Nov 28, 2023 5:32:09 PM server.MarketServer openConnection
+SEVERE: Connection setup failed! - Address already in use
